@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "setup",
+			"path": "."
+		},
+		{
+			"name": "myPix",
+			"path": "../../../../Desktop/myPix"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "setup"
+	}
+}
